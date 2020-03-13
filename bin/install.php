@@ -77,7 +77,7 @@ class Installer
                     'migrations', 'models', 'sql', 'views'
                 ),
                 'msg'   => 'See http://benedmunds.com/ion_auth/',
-                'example_branch' => '2',
+                'example_branch' => '3',
             ),
             'filename-checker' => array(
                 'site'  => 'github',
